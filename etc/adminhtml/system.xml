@@ -70,7 +70,7 @@
                         <config_path>reach/dhl/enable</config_path>
                     </field>
                     <field id="duty_label" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="20" translate="label" type="text">
-                        <label>Tax and Duties Label</label>
+                        <label>Tax and Duties Label!!</label>
                         <depends>
                             <field id="active">1</field>
                         </depends>
